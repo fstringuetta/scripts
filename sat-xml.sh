@@ -10,7 +10,7 @@ arquivo1="/retag/arquivo1"
 arquivo2="/retag/arquivo2"
 arquivo3="/retag/arquivo3"
 srv="/servidor/NFCEPROC/"
-cnpj="03354724000121"
+cnpj="00000000000000" # Necessario informar CNPJ da empresa
 
 ## Inicio Script
 if [ -e $satpen ]; then
